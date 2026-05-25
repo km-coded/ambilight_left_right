@@ -1,3 +1,5 @@
+Eine sehr vereinfachte Version von Ambilight: rechts und links - der Effekt ist auch nicht zu verachten!
+
 This is the simplest way of a two sided (for example on a tv or computer monitor) AMBILIGHT system.
 Please refere to this instructable page https://www.instructables.com/Java-Microcontroller-LED-TV-Ambient-Light/ to build up the circuitry, 
 which then is controlled by this little arduino script.
